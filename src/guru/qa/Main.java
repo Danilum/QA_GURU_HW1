@@ -6,4 +6,8 @@ public class Main {
         System.out.println("qa_guru Hello!");// write your code here
         System.out.println("ko");
     }
+
+    public static void method(){
+        System.out.println("hello from Innopolis!");
+    }
 }
